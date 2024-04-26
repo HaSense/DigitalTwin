@@ -16,7 +16,7 @@
    만드실때 Scene 이름은 한글을 사용하지 마세요.
 
 3. Scene Export로 파일추출
-   - 기본 씬(Scene)인 "SampleScene" 이름을 다른 이름으로 변경해 주세요. 
+   - 기본 씬(Scene)인 "SampleScene" 이름을 다른 이름으로 변경해 주세요. (Assets에서 F2(이름변경)으로 이름이 수정가능 합니다.)
    - 게임에 Scene이 하나 이상일 때는 메일에 언급해 주시고 해당 Scene들만 
    zip 파일로 압축해 주세요. 
    - 추출한 Scene 파일들은 다음과 같은 형식 
